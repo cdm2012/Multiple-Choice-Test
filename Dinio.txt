@@ -1,0 +1,74 @@
+Име: Dinio
+
+Въпрос № 1
+      Which statement is true regarding a device file's major number?
+             1) It is determined by its hardware address.
+             2) It points to the associated kernel driver.
+             3) It is used to allocate buffer space.
+             4) It determines the device's interrupt priority.
+Потребителя е отбелязал: It is determined by its hardware address.
+Верният отговор на този въпрос е: It points to the associated kernel driver.
+
+Въпрос № 2
+      What is the purpose of the lost+found directory?
+             1) allows fsck to recover orphaned files and directories
+             2) required on JFS file systems for journaling
+             3) functions as a trash can for the file system
+             4) a temporary storage for deleted files
+Потребителя е отбелязал: functions as a trash can for the file system
+Верният отговор на този въпрос е: allows fsck to recover orphaned files and directories
+
+Въпрос № 3
+      What does a hard link between two files do?
+             1) allows 2 users to own the same file
+             2) ensures that 2 files get deleted together
+             3) allows data to span 2 files
+             4) allows multiple file names to reference the same data on disk
+Потребителя не е отбелязал никакъв отговор. 
+Верният отговор на този въпрос е: allows multiple file names to reference the same data on disk
+
+Въпрос № 4
+      In "let" statements what action does "/" represent?
+             1) escape the meaning of next character
+             2) division
+             3) percentage
+             4) remainder
+Потребителя не е отбелязал никакъв отговор. 
+Верният отговор на този въпрос е: division
+
+Въпрос № 5
+      A journaled file system intent log is used to____________
+             1) store user data prior to a physical write
+             2) log meta data changes
+             3) improve buffer cache performance
+             4) provide an audit trial
+Потребителя не е отбелязал никакъв отговор. 
+Верният отговор на този въпрос е: log meta data changes
+
+Въпрос № 6
+      The default size of a physical extent in LVM is_________
+             1) twice the size of a logical extent
+             2) the same size as the resident file system's disk block
+             3) 1/1024 of the total volume size
+             4) 4MB
+Потребителя не е отбелязал никакъв отговор. 
+Верният отговор на този въпрос е: 4MB
+
+Въпрос № 7
+      What is the best example of a good password?
+             1) RobertSmith123
+             2) TheQuickRedFoxJumpedOverTheLazyBrownDog
+             3) 9874539763
+             4) ornY3.%dy
+Потребителя е отбелязал: RobertSmith123
+Верният отговор на този въпрос е: ornY3.%dy
+
+Въпрос № 8
+      What does the pvcreate command create?
+             1) a hard partition
+             2) a physical volume device file
+             3) the lvm disk resident structures
+             4) the physical links
+Потребителя е отбелязал: a hard partition
+Верният отговор на този въпрос е: the lvm disk resident structures
+Крайната оценка на студента е:  Слаб 2
